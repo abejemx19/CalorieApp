@@ -1,4 +1,4 @@
-# CalorieApp
+# Calorie App
 # Android Project 5 - *Calorie App*
 
 Submitted by: **Mikias Abeje**
@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Mikias Abeje]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
